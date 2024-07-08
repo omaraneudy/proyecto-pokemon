@@ -12,3 +12,4 @@ C:\Users\Omar\Documents\Proyectos\proyecto-pokemon\obj\Debug\net8.0\refint\proye
 C:\Users\Omar\Documents\Proyectos\proyecto-pokemon\obj\Debug\net8.0\proyecto-pokemon.pdb
 C:\Users\Omar\Documents\Proyectos\proyecto-pokemon\obj\Debug\net8.0\proyecto-pokemon.genruntimeconfig.cache
 C:\Users\Omar\Documents\Proyectos\proyecto-pokemon\obj\Debug\net8.0\ref\proyecto-pokemon.dll
+C:\Users\Omar\Documents\Proyectos\proyecto-pokemon\obj\Debug\net8.0\proyecto-pokemon.sourcelink.json
