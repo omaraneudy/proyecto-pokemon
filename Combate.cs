@@ -35,11 +35,13 @@ public class Combate
     {
         double dano = 0;
         int variacion = new Random().Next(85,100);
-        double cantidadAtaque = 0;
+        double cantidadAtaque = 410;
+        double cantidadDefensaRival = 450;
         //Datos para prueba (en el futuro vendrán del pokemon)
         int nivel = 100;
-        double efectividad = 0;
+        double efectividad = 0.5;
         double bonificacion = 1.5;
+        int poderAtaque = 150;
 
 
 
